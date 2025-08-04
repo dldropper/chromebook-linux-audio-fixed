@@ -4,7 +4,7 @@
 
 # Instructions
 1.     git clone https://github.com/dldropper/chromebook-linux-audio-fixed
-2.     cd chromebook-linux-audio
+2.     cd chromebook-linux-audio-fixed
 3.     ./setup-audio
 
 # Requirements
